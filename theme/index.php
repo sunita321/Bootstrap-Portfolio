@@ -1,1 +1,1 @@
-<?php include_once("C:/Users/Sunita/Desktop/Bootstrap-Portfolio/theme/index.html"); ?>
+<?php include_once("theme/index.html"); ?>
